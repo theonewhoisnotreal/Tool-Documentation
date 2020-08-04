@@ -1,4 +1,4 @@
-- [MCC Instructions 🤔](#surena-instructions---)
+- [MCC Instructions](#surena-instructions---)
 
 
 
